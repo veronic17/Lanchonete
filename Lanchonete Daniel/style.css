@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+head {
+    height: 100vh;
+
+}
+
+html {
+    background-color: rgba(228, 79, 21, 0.938);
+
+}
+
+body {
+    font-size: 30px;
+    line-height: 1.6;
+    text-align: center;
+    background-image: linear-gradient(to bottom, #e60000, #ffbb00);
+}
+
+header {
+    background-image: linear-gradient(to bottom, #ffbb00, #e60000);
+
+}
